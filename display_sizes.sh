@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#  Coomment  for GIT
+#  Coomment  for Git
 display_size() {
     for item in *; do
         if [ -d "$item" ]; then
